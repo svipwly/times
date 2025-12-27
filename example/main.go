@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/djherbis/times"
+	"github.com/svipwly/times"
 )
 
 func main() {
